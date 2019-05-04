@@ -1,6 +1,6 @@
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/FunnyDeveloper100/gatsby-contentful-react-blog)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
